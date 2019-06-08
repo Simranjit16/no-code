@@ -1,5 +1,7 @@
- mmand to print a history with date
+#command to print a history with date and time
  >> HISTTIMEFORMAT="%D %t %T %M"
+ >> history
+ #output is=
  c06/08/19 	 00:36:26 36cd desktop
     2   06/08/19 	 00:36:26 36CD DESKTOP
     3   06/08/19 	 00:36:26 36cd Desktop
