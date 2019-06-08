@@ -1,4 +1,6 @@
-    1   06/08/19 	 00:36:26 36cd desktop
+ mmand to print a history with date
+ >> HISTTIMEFORMAT="%D %t %T %M"
+ c06/08/19 	 00:36:26 36cd desktop
     2   06/08/19 	 00:36:26 36CD DESKTOP
     3   06/08/19 	 00:36:26 36cd Desktop
     4   06/08/19 	 00:36:26 36useradd sim
